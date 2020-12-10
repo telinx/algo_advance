@@ -25,14 +25,27 @@ public class KMP {
         int[] next = new int[chars.length];
         next[0] = -1;
         next[1] = 0;
-        int k = 2;
-        while(k < chars.length) {
+//        int k = 2;
+//        while(k < chars.length) {
+//            int val = next[k - 1];
+//            if(chars[k-1] == chars[val]) {
+//                next[k++] = val + 1;
+//            }else {
+//                next[k++] = 0;
+//            }
+//        }
+        for(int k = 2; k < chars.length; k++) {
             int val = next[k - 1];
-            if(chars[k-1] == chars[val]) {
-                next[k++] = val + 1;
-            }else {
-                next[k++] = 0;
+            while(val != -1) { // 这段代码 比如AsadafeqeA，这种情况是要匹配首尾的
+              if(chars[k-1] == chars[val]) {
+                  next[k] = val + 1;
+                  break;
+              }else {
+                  val = next[val];
+              }
+              next[k] = 0;
             }
+            
         }
         return next;
     }
