@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * 核心思想求出部分匹配值
+ * 注意next[0] = -1
  * @author yucang
  *
  */
