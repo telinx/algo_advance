@@ -66,7 +66,7 @@ public class BFRPT {
                 array[j] = array[j - 1];
                 j--;
             }
-            array[j] = temp;
+            array[j]=temp;
         }
     }
     
