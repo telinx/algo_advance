@@ -1,7 +1,5 @@
 package com.advence.class_01;
 
-import java.util.Arrays;
-
 /**
  * 核心思想
  * 1.字符间隔加#号
@@ -54,6 +52,7 @@ public class Manacher {
         int[] p = new int[chars.length()];
         int mx = 0; //每次能回文最大的右边直径点
         int id = 0;
+
         int maxLength = -1;
         int index = 0; //最长回文圆心
         for(int i= 1; i < chars.length() - 1; i++) {
