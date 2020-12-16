@@ -27,7 +27,7 @@ public class GetMaxHappy {
         public int happy;
         public List<Node> subs;
         
-        public Node(int data) {
+        public Node(int happy) {
             super();
             this.happy = happy;
         }
