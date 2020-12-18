@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 public class ComparatorTool implements Comparator<Integer>{
-
+    // o1 - o2从小到大 反之则反之
     @Override
     public int compare(Integer o1, Integer o2) {
         return o1 - o2;
