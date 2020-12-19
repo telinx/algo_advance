@@ -48,9 +48,11 @@ public class C9_CountNodes {
             return 1;
         }
         // 
-        if(mostLevel(head.right, level + 1) == height) {
+        if(mostLevel(head.right, level + 1) == height) {  
+            // 左边树是满二叉树  满二叉树个数 = 2^ - 1，而左边为2^ - 1 + 1
             return (1 << (height - level)) + bs(head.right, level + 1, height);
         }else {
+            // 右边树是满二叉树
             return (1 << (height - level - 1)) + bs(head.left, level + 1, height);
         }
     }
