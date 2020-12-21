@@ -50,7 +50,7 @@ public class C_10SumEqualAim {
     
     public static void main(String[] args) {
         int[] arr = new int[] {4, 2, 5};
-        System.out.println(dpProcess(arr, 1));
+        System.out.println(dpProcess(arr, 7));
         System.out.println(process(arr, 0, 1));
     }
 }

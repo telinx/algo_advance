@@ -14,7 +14,7 @@ import java.time.chrono.MinguoChronology;
  * @author yucang
  *
  */
-public class C9_GetMatrixSum {
+public class C9_GetMinPath {
     
     public static int getMinSum(int[][] matrix, int i, int j) {
        int res = matrix[i][j];
@@ -47,6 +47,14 @@ public class C9_GetMatrixSum {
                 dp[i][j] = matrix[i][j] + Math.min(dp[i-1][j], dp[i][j-1]);
             }
         }
+        
+        for(int i = 0; i<dp.length; i++) {
+            for(int j = 0; j < dp[0].length; j++) {
+                System.out.print(dp[i][j] + "\t");
+            }
+            System.out.println();
+        }
+        
         return dp[row - 1][col - 1];
     }
     
