@@ -2,31 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09672e19-5ca1-46fb-8137-12088266789b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C10_FrogJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C11_MatrixFugai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C12_BinaryOneCnt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C13_MiCiFang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C14_JiShuFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C15_ListLastK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C16_MergeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C17_SubTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C18_TreeMirro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C19_MatrixPrintHui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C1_ArrayFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C20_MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C21_IsPopOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C22_PrintTreeFromTopToBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C23_BSTPostSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C24_TreeSumPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C25_ListCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C2_BlankReplace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C3_ReverseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C4_PrintList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C5_RebuildTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C6_QueueByStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C7_ReverseArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C8_Fibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C34_ZhiPrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C35_SerialTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C36_BSTSearchKNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C37_GetMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C38_WindowMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C39_MatrixPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C40_RobotRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/未解读.md" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/未解读.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/AlgoAdvance/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,62 +30,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C24_TreeSumPath.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C23_BSTPostSub.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C21_IsPopOrder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C20_MinStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C19_MatrixPrintHui.java">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="40">
+              <caret line="15" column="56" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C22_PrintTreeFromTopToBottom.java">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+            <state relative-caret-position="248">
+              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -118,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_01/Manacher.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/note.md" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindLongSubArraySumEqualAim.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/FindSmallAimSubArray.java" />
@@ -159,14 +118,25 @@
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C24_TreeSumPath.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C23_BSTPostSub.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C21_IsPopOrder.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C34_ZhiPrintTree.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C35_SerialTree.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C36_BSTSearchKNum.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C37_GetMedian.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C38_WindowMax.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C39_MatrixPath.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C40_RobotRun.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/未解读.md" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="618" />
     <option name="y" value="25" />
-    <option name="width" value="1280" />
-    <option name="height" value="715" />
+    <option name="width" value="897" />
+    <option name="height" value="713" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -192,7 +162,7 @@
               <item name="algo_advance" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoAdvance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="class_01" type="462c0819:PsiDirectoryNode" />
+              <item name="backtrack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,20 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.C12_BinaryOneCnt">
-    <configuration name="C10_FrogJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.class_01.C10_FrogJump" />
-      <module name="AlgoAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.offer.class_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C2_EightQueue">
     <configuration name="C12_BinaryOneCnt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.class_01.C12_BinaryOneCnt" />
       <module name="AlgoAdvance" />
@@ -257,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_BlankReplace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.class_01.C2_BlankReplace" />
+    <configuration name="C1_Arrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.backtrack.C1_Arrange" />
       <module name="AlgoAdvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.offer.class_01.*" />
+          <option name="PATTERN" value="com.interview.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C7_ReverseArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.class_01.C7_ReverseArr" />
+    <configuration name="C2_EightQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.backtrack.C2_EightQueue" />
       <module name="AlgoAdvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.offer.class_01.*" />
+          <option name="PATTERN" value="com.interview.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +240,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSortPlus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.base.class_01.QuickSortPlus" />
+    <configuration name="C34_ZhiPrintTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.class_02.C34_ZhiPrintTree" />
       <module name="AlgoAdvance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.base.class_01.*" />
+          <option name="PATTERN" value="com.offer.class_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.backtrack.EightQueen" />
+      <module name="AlgoAdvance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.backtrack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -298,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C2_EightQueue" />
+        <item itemvalue="Application.EightQueen" />
+        <item itemvalue="Application.C1_Arrange" />
+        <item itemvalue="Application.C34_ZhiPrintTree" />
         <item itemvalue="Application.C12_BinaryOneCnt" />
-        <item itemvalue="Application.C10_FrogJump" />
-        <item itemvalue="Application.C7_ReverseArr" />
-        <item itemvalue="Application.C2_BlankReplace" />
-        <item itemvalue="Application.QuickSortPlus" />
       </list>
     </recent_temporary>
   </component>
@@ -321,33 +291,34 @@
       <workItem from="1607789538055" duration="458000" />
       <workItem from="1607826383170" duration="213000" />
       <workItem from="1607877172685" duration="14083000" />
-      <workItem from="1608654872133" duration="13738000" />
+      <workItem from="1608654872133" duration="25969000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31050000" />
+    <option name="totallyTimeSpent" value="43281000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="25" width="1280" height="715" extended-state="0" />
+    <frame x="618" y="25" width="897" height="713" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21486267" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31111112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Problems" visible="true" weight="0.32901135" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32899022" />
+      <window_info anchor="bottom" id="Problems" weight="0.32682925" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3284553" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.3273906" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.51140064" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.33495936" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.510453" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.44084278" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27351916" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -406,152 +377,16 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C34_ZhiPrintTree.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_01/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_01/MergeArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_01/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_01/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="41" column="40" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_01/SortUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_05/C3_UnionFind.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-273">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-          <folding>
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1437#1438#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_05/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_04/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_03/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_02/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_01/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_01/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="255">
-            <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_03/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="50">
-            <caret line="33" selection-start-line="33" selection-end-line="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -780,7 +615,7 @@
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C24_TreeSumPath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -791,13 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="122">
           <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C21_IsPopOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -812,6 +640,145 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C33_DuichengTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_04/C6_CalTreeHeight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C34_ZhiPrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+          <folding>
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C35_SerialTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_04/C4_SerialTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C36_BSTSearchKNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="41" column="23" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C37_GetMedian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_07/C6_Medium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C38_WindowMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C39_MatrixPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C40_RobotRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C21_IsPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C8_UglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/未解读.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
