@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09672e19-5ca1-46fb-8137-12088266789b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C34_ZhiPrintTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C35_SerialTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C36_BSTSearchKNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C37_GetMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C38_WindowMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C39_MatrixPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C40_RobotRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C3_Combination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/未解读.md" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/未解读.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/AlgoAdvance/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +20,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
+            <state relative-caret-position="225">
               <caret line="15" column="56" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C3_Combination.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/note.md" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindLongSubArraySumEqualAim.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/FindSmallAimSubArray.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/note.md" />
@@ -129,12 +130,13 @@
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C3_Combination.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="618" />
-    <option name="y" value="25" />
+    <option name="x" value="369" />
+    <option name="y" value="26" />
     <option name="width" value="897" />
     <option name="height" value="713" />
   </component>
@@ -200,20 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.C2_EightQueue">
-    <configuration name="C12_BinaryOneCnt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.class_01.C12_BinaryOneCnt" />
-      <module name="AlgoAdvance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.offer.class_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.C3_Combination">
     <configuration name="C1_Arrange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interview.backtrack.C1_Arrange" />
       <module name="AlgoAdvance" />
@@ -253,6 +242,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C3_Combination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interview.backtrack.C3_Combination" />
+      <module name="AlgoAdvance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.interview.backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interview.backtrack.EightQueen" />
       <module name="AlgoAdvance" />
@@ -268,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C3_Combination" />
         <item itemvalue="Application.C2_EightQueue" />
         <item itemvalue="Application.EightQueen" />
         <item itemvalue="Application.C1_Arrange" />
         <item itemvalue="Application.C34_ZhiPrintTree" />
-        <item itemvalue="Application.C12_BinaryOneCnt" />
       </list>
     </recent_temporary>
   </component>
@@ -291,18 +293,18 @@
       <workItem from="1607789538055" duration="458000" />
       <workItem from="1607826383170" duration="213000" />
       <workItem from="1607877172685" duration="14083000" />
-      <workItem from="1608654872133" duration="25969000" />
+      <workItem from="1608654872133" duration="26784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43281000" />
+    <option name="totallyTimeSpent" value="44096000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="618" y="25" width="897" height="713" extended-state="0" />
+    <frame x="369" y="26" width="897" height="713" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.31111112" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31111112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -310,15 +312,15 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3284553" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.33495936" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.510453" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.34471545" />
+      <window_info active="true" anchor="bottom" id="Debug" order="4" visible="true" weight="0.5089431" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27351916" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27317074" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -328,23 +330,24 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21163167" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.31111112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.32899022" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.51140064" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.57050246" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="0" weight="0.32682925" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.3284553" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.33495936" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.510453" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.27317074" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -383,18 +386,16 @@
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C3_Combination.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/note.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/note.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -774,8 +775,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C1_Arrange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
+        <state relative-caret-position="225">
           <caret line="15" column="56" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C3_Combination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="57" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
