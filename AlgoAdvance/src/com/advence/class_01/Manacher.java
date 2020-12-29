@@ -16,7 +16,7 @@ package com.advence.class_01;
  * @author yucang
  *  
  * 步骤
- * 1.处理数据加$#@，chars
+ * 1.处理成奇数长度数据加$#@，chars
  * 2.遍历chars
  *  2.1 推理出p[i] = R < i ? 1 : Math.min(p[2*id - i], R - i);
  *  2.2 以i为圆心向外扩
@@ -49,7 +49,8 @@ public class Manacher {
             return target;
         }
         String chars = addSignal(target);
-        int[] p = new int[chars.length()];
+
+        int[] p = new int[chars.length()];// 回文半径
         int mx = 0; //每次能回文最大的右边直径点
         int id = 0;
 

@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 /**
  * 核心思想
- * 一个HashMap 一个 双向链表
+ * 一个HashMap 一个 二维双向链表
  * HashMap存储Node
  * 双端链表，头增尾删
  *  head为当前时间最长时间使用的
