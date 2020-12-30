@@ -1,6 +1,6 @@
 1. KMP
 2. Manacher
-3. BFRPT
+3. BFRPT\窗口双端队列
 4. Morrios
 5. 等于aim最长子数组长度，小于等于aim最长子数组长度
 6. 二叉树高度套路递归题

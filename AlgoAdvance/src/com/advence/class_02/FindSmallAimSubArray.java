@@ -15,7 +15,7 @@ import java.util.LinkedList;
  * 利用两个双端队列，分别存储当前最大值，最小值
  * 设置两个指针L R，L为起始位置，R为右边界
  * 
- * L是做边界 R是有边界
+ * L是左边界 R是右边界
  * maxList minList队头存的是这个范围内最大 和 最小
  * 如果在这个区间内max-min <= aim 里面所有的从L作为起点子数组都是符合的 res += R - L
  *

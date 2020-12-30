@@ -32,7 +32,7 @@ public class Morris {
                    mostRight.right = cur;
                    cur = cur.left;
                }else {
-                   mostRight = null;
+                   mostRight.right = null;
                    cur = cur.right;
                }
            }else {
@@ -55,7 +55,7 @@ public class Morris {
                    cur = cur.left;
                }else {
                    System.out.println(cur.value);
-                   mostRight = null;
+                   mostRight.right = null;
                    cur = cur.right;
                }
            }else {

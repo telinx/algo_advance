@@ -9,7 +9,16 @@ package com.advence.class_08;
  *
  */
 public class GetBigSubArraySumSmallAim {
-    
+
+    /**
+     *      100 200 7 -6 -3
+     *      0   4   4  4  4
+     *      100 198 1 -9 -3
+     * aim = 7
+     * @param arr
+     * @param aim
+     * @return
+     */
     public static int getBigSubArraySumSmallAim(int[] arr, int aim) {
         // i开头的所有子数组的最小累加值
         int[] min_sum = new int[arr.length];
@@ -19,7 +28,7 @@ public class GetBigSubArraySumSmallAim {
         int length = arr.length;
         min_sum[length - 1] = arr[length - 1];
         min_sum_index[length - 1] = length - 1;
-        for(int i = length - 2; i >= 0; i++) {
+        for(int i = length - 2; i >= 0; i--) {
             if(min_sum[i + 1] < 0) {
                 min_sum[i] = arr[i] + arr[i + 1];
                 min_sum_index[i] = i + 1;
@@ -44,7 +53,8 @@ public class GetBigSubArraySumSmallAim {
     }
     
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 5, 1, 1, 1, 1, 1, 1, 9};
+        //int[] arr = {1, 2, 3, 5, 1, 1, 1, 1, 1, 1, 9};
+        int[] arr = {100, 200, 7, -6, -3};
         System.out.println(getBigSubArraySumSmallAim(arr, 6));
         
     }

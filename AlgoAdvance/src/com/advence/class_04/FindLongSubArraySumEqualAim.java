@@ -16,7 +16,7 @@ public class FindLongSubArraySumEqualAim {
 
         for(int i = 0; i < array.length; i++){
             sum += array[i];
-            //这段代码很重要，因为要提取最长的，比方0-2 = sum - aim, 0 -4 = sum - aim
+            //这段代码很重要，因为要提取最长的，比方0-2 = sum - aim, 0-4 = sum - aim
             if(!map.containsKey(sum)){
                 map.put(sum, i);
             }
@@ -29,12 +29,12 @@ public class FindLongSubArraySumEqualAim {
 
     }
 
-//    public static void main(String[] args) {
-//        Integer[] array = new Integer[]{
-//                7, 3, 2, 1, 1, 7, -6, -1, 7
-//        };
-//        System.out.println(findLongSubArraySumEqualAim(array, 7));
-//    }
+    public static void main(String[] args) {
+        Integer[] array = new Integer[]{
+                7, 3, 2, 1, 1, 7, -6, -1, 7
+        };
+        System.out.println(findLongSubArraySumEqualAim(array, 7));
+    }
 
 
     public static int maxSubArrs(int[] arr) {
@@ -63,12 +63,12 @@ public class FindLongSubArraySumEqualAim {
         return dp[dp.length -1];
     }
 
-    public static void main(String[] args) {
-        int arr[] = {1, 2, 3, 0, 2, 3, 1, 0, 4, 1, 3, 2};
-        System.out.println(maxSubArrs(arr));
-        System.out.println(getXor(arr));
-    }
-    
+    //public static void main(String[] args) {
+    //    int arr[] = {1, 2, 3, 0, 2, 3, 1, 0, 4, 1, 3, 2};
+    //    System.out.println(maxSubArrs(arr));
+    //    System.out.println(getXor(arr));
+    //}
+    //
     /**
      * 
      * @param arr
