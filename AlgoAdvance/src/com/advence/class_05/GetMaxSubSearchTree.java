@@ -16,7 +16,7 @@ package com.advence.class_05;
  * 2.BigST在右子树中
  * 3.本身就是个BigST
  * 
- * 要区分这三种情况，需要手机信息
+ * 要区分这三种情况，需要收集信息
  * =子树中是否存在最大搜索二叉树
  * =子树的头节点
  * =子树的最大值结点
@@ -86,8 +86,8 @@ public class GetMaxSubSearchTree {
             maxHead = root;
         }else{
             maxHead = leftSize > rightSize ? leftInfo.head : rightInfo.head;
-        }
-        int max = Math.max(Math.max(leftInfo.max, rightInfo.max), root.data);
+        }        int max = Math.max(Math.max(leftInfo.max, rightInfo.max), root.data);
+
         int min = Math.max(Math.min(leftInfo.min, rightInfo.min), root.data);
         
         return new ReturnData(maxSize, maxHead, max, min);

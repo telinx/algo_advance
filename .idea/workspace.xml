@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09672e19-5ca1-46fb-8137-12088266789b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/FindSmallAimSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/FindSmallAimSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_03/Morris.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_03/Morris.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindLongSubArraySumEqualAim.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindLongSubArraySumEqualAim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindMaxXorSumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindMaxXorSumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubSearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LFU.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LFU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LRU.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LRU.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlgoAdvance/src/进阶题型总结" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoAdvance/src/进阶题型总结" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/AlgoAdvance/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,37 +23,116 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindMaxXorSumSubArray.java">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubLongTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="353">
+              <caret line="52" column="41" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubLongTree.java">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubSearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="312">
+              <caret line="91" column="8" lean-forward="true" selection-start-line="91" selection-end-line="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LRU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="93" column="37" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LFU.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="30" column="22" selection-start-line="30" selection-end-line="31" />
+              <folding>
+                <element signature="e#5119#5125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/ChangeMoney.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="46" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="203">
+                <caret line="18" column="13" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/RobotWalk.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/Zhengze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-683">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumEqualAim.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-372">
+              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubSearchTree.java">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="190">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxHappy.java">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/note.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/IsBalanceTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="67">
+              <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -82,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/note.md" />
-        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/note.md" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/未完成.md" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C1_ArrayFind.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_01/C2_BlankReplace.java" />
@@ -121,18 +195,20 @@
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/EightQueen.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C2_EightQueue.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/interview/backtrack/C3_Combination.java" />
-        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LRU.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/offer/class_02/C4_ArrLessKValue.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/base/class_03/C15_CirCleList.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_01/Manacher.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_01/KMP.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/zuoshen/ad/c1/KMP.java" />
-        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_02/FindSmallAimSubArray.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/进阶题型总结" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_03/Morris.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindLongSubArraySumEqualAim.java" />
         <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_04/FindMaxXorSumSubArray.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubSearchTree.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LRU.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LFU.java" />
+        <option value="$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java" />
       </list>
     </option>
   </component>
@@ -164,25 +240,7 @@
               <item name="algo_advance" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="AlgoAdvance" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.advence.class_01" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="algo_advance" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="AlgoAdvance" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.advence.class_03" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="algo_advance" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="AlgoAdvance" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.advence.class_04" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="algo_advance" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="AlgoAdvance" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com.advence.class_05" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.advence.class_07" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="algo_advance" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -207,7 +265,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -322,17 +380,18 @@
       <workItem from="1607877172685" duration="14083000" />
       <workItem from="1608654872133" duration="27014000" />
       <workItem from="1608916268279" duration="11136000" />
-      <workItem from="1609231381938" duration="7883000" />
+      <workItem from="1609231381938" duration="11943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63345000" />
+    <option name="totallyTimeSpent" value="67405000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="29" width="1159" height="709" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29006267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29006267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -347,9 +406,9 @@
       <window_info anchor="bottom" id="Docker" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.44680852" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20785597" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="bottom" id="Problems" order="13" weight="0.32682925" />
+      <window_info anchor="bottom" id="Problems" order="13" visible="true" weight="0.32569557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -436,69 +495,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Edge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/GraphGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/C2_Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-163">
-          <caret line="62" column="3" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Code01_BFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Code02_DFS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Code04_Prim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Code_03_TopoSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-98">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/base/class_06/Code_05_Kruskal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-171">
@@ -653,13 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_01/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -794,15 +783,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubLongTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="353">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/GetMaxSubSearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="312">
+          <caret line="91" column="8" lean-forward="true" selection-start-line="91" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/IsBalanceTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_05/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LRU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="93" column="37" selection-start-line="93" selection-start-column="32" selection-end-line="93" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_06/LFU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="30" column="22" selection-start-line="30" selection-end-line="31" />
+          <folding>
+            <element signature="e#5119#5125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/ChangeMoney.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/note.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="203">
+            <caret line="18" column="13" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/RobotWalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_07/Zhengze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-683">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumEqualAim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AlgoAdvance/src/com/advence/class_08/GetBigSubArraySumSmallAim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
         </state>
       </provider>
     </entry>

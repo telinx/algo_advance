@@ -47,7 +47,7 @@ public class GetBigSubArraySumSmallAim {
             }
             len = Math.max(len, R - L);
             sum -= R==L ? 0: arr[L];
-            R = Math.max(R, L + 1);  // 右边界不回退
+            R = Math.max(R, L + 1); // 第一个数就不符合就直接下一个
         }
         return len;
     }

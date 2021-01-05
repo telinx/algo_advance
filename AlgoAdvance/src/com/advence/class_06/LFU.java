@@ -9,7 +9,7 @@ import java.util.HashMap;
  * 一个HashMap 一个二维的双向队列
  * HashMap存储Record
  * Y轴存储同频率的Record，头增尾删
- * X轴存储Y轴，清除Y轴无数据需
+ * X轴存储同频率的Record的双向链表，清除Y轴无数据节点
  * 
  * 代码编写总结
  * Y轴内容对象Record
@@ -190,7 +190,7 @@ public class LFU<K, V> implements ILFUCache<K, V>{
         }else {
             FrequencyList<K, V> newList = new FrequencyList<K, V>(record);
             // 判断newList该放在那个位置,即调整X轴位置
-            if(prevList == null) {            // X轴至多一个节点
+            if(prevList == null) {            // X轴至多一个节点，即只有一个Head
                 if(nextList != null) {
                     nextList.prev = newList;
                 }
@@ -212,7 +212,7 @@ public class LFU<K, V> implements ILFUCache<K, V>{
     }
     
     /**
-     * Y轴数据数据量判断，是否为空
+     * Y轴数据数据量判断，是否为空，为空根据FrequencyList节点位置删除
      * @param frequencyList
      * @return
      */
